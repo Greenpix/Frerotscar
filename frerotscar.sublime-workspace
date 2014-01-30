@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"dar",
+				"darkblack"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"popup",
+				"popup-overlay"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"jquery",
+				"jquery	<script> (code.jquery.com)"
+			],
+			[
+				"lin",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 22355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_include/js/main.js",
+			"settings":
+			{
+				"buffer_size": 14355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_include/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 32141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_include/css/shortcodes.css",
+			"settings":
+			{
+				"buffer_size": 13213,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/DATA/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site2/_include/js/main.js",
+		"/Volumes/DATA/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site2/_include/sass/main.scss",
+		"/opt/local/lib/perl5/5.12.4/unicore/lib/Perl/Word.pl",
+		"/Volumes/DATA/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site2/_include/css/main.scss",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/sass/slider.scss",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/js/main.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/index.html",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/sass/screen.scss",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/js/vendor/panelsnap.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/js/vendor/slider.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/css/icon.css",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/site/demo_icon.html",
+		"/Users/gregoryfrerot/Downloads/icon93812/index.html",
+		"/Users/gregoryfrerot/Downloads/icon93812/fonts/icon.dev.svg",
+		"/Users/gregoryfrerot/Downloads/icon93812/fonts/icon.eot",
+		"/Users/gregoryfrerot/Downloads/icon93812/fonts/icon.svg",
+		"/Users/gregoryfrerot/Downloads/icon93812/fonts/icon.ttf",
+		"/Users/gregoryfrerot/Downloads/icon93812/fonts/icon.woff",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/frerotscar/wp/wp-content/themes/frerotscar/style.css",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/js/main.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/index.html",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/css/parts/ui.scss",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/js/vendor/jquery.mcmodal.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/js/vendor/jquery.popup.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/js/vendor/jquery.avgrund.js",
+		"/Users/gregoryfrerot/Google Drive/Infographie/Projets/Lunch-Space/Web/js/vendor/popup.js",
+		"/Users/gregoryfrerot/Google Drive/Lunch-Space/lunch-space-web/css/parts/var.scss",
+		"/Users/gregoryfrerot/Google Drive/Lunch-Space/lunch-space-web/css/parts/header.scss",
+		"/Users/gregoryfrerot/Google Drive/Lunch-Space/lunch-space-web/config.rb",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/main.scss",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/index.html",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/js/vendor/jquery.avgrund.js",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/js/main.js",
+		"/Users/gregoryfrerot/Google Drive/Lunch-Space/lunch-space-web/css/main.css",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/var.scss",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/mediaqueries.scss",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/config.rb",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/main.scss",
+		"/Users/gregoryfrerot/Downloads/demo/sass/screen.sass",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/trunk/LunchSpace.Www/Views/Home/Index.cshtml",
+		"/Users/gregoryfrerot/Documents/www/index.html",
+		"/Users/gregoryfrerot/rails_projects/sample_app/app/controllers/pages_controller.rb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/app/views/pages/home.html.erb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/app/views/pages/contact.html.erb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/app/views/pages/about.html.erb",
+		"/Users/gregoryfrerot/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gregoryfrerot/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/config/routes.rb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/subl",
+		"/Users/gregoryfrerot/rails_projects/sample_app/t$",
+		"/Users/gregoryfrerot/rails_projects/sample_app/.rspec",
+		"/Users/gregoryfrerot/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/gregoryfrerot/rails_projects/sample_app/spec/spec_helper.rb,",
+		"/Users/gregoryfrerot/rails_projects/sample_app/Gemfile",
+		"/Users/gregoryfrerot/rails_projects/sample_app/.autotest",
+		"/Users/gregoryfrerot/rails_projects/demo_app/gemfile",
+		"/Users/gregoryfrerot/rails_projects/demo_app/Gemfile",
+		"/Users/gregoryfrerot/rails_projects/sample_app/gemfile",
+		"/Users/gregoryfrerot/rails_projects/demo_app/app/models/user.rb",
+		"/Users/gregoryfrerot/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/gregoryfrerot/rails_projects/demo_app/.gitignore",
+		"/Users/gregoryfrerot/.git",
+		"/Users/gregoryfrerot/rails_projects/demo_app/config/database.yml",
+		"/Users/gregoryfrerot/rails_projects/demo_app/.git/COMMIT_EDITMSG",
+		"/Users/gregoryfrerot/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/Users/gregoryfrerot/rails_projects/demo_app/app/models/.gitkeep",
+		"/Users/gregoryfrerot/rails_projects/first_app/Gemfile.lock",
+		"/Users/gregoryfrerot/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gregoryfrerot/Documents/www/css/zoombox.css",
+		"/Users/gregoryfrerot/Documents/www/actualites.html",
+		"/Users/gregoryfrerot/Documents/www/contact.html",
+		"/Users/gregoryfrerot/Documents/www/applications.html",
+		"/Users/gregoryfrerot/Documents/www/js/custom.js",
+		"/Users/gregoryfrerot/Documents/www/css/style.less",
+		"/Users/gregoryfrerot/Documents/www/js/zoombox.js",
+		"/Users/gregoryfrerot/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/mediaqueries.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/main.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/header.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/ui.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/parts/reset.less",
+		"/Users/gregoryfrerot/Downloads/Golden-Grid-System-master/GGS.less",
+		"/Users/gregoryfrerot/Downloads/Golden-Grid-System-master/goldengridsystem.com/assets/GGS.less",
+		"/Users/gregoryfrerot/Downloads/Golden-Grid-System-master/goldengridsystem.com/assets/GGS.css",
+		"/Users/gregoryfrerot/Downloads/Golden-Grid-System-master/goldengridsystem.com/assets/helpful-LESS-functions.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/lunch-space-web/css/main.css",
+		"/Users/gregoryfrerot/Documents/main.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/parts/reset.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/normalize.min.css",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/normalize.css",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/parts/var.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/parts/print.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/parts/help.less",
+		"/Users/gregoryfrerot/Documents/Lunch-Space/project/css/parts/mediaqueries.less",
+		"/Users/gregoryfrerot/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/gregoryfrerot/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"black",
+			"input",
+			"info",
+			"$green",
+			"#DE5E60",
+			"info",
+			"DE5E60",
+			"chakra",
+			"a",
+			"slider",
+			"CHAKRA",
+			"sepa",
+			"#2F3238",
+			"#26292E",
+			"#DE5E60",
+			"class=\"icon",
+			":before",
+			"holder",
+			"removeClass",
+			" clearfix",
+			"clearfix",
+			"class=\"clearfix\"",
+			"\"\"",
+			"clearfix",
+			"@",
+			"font",
+			"z-index:",
+			"z-index",
+			"left",
+			"Myriad Pro",
+			"rale",
+			"avgrund",
+			"(",
+			"avgrund",
+			"57",
+			"detect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#c0d838",
+			"$green",
+			"FREROTSCAR",
+			"$lightblack",
+			"$black",
+			"$green",
+			"class=\"icon icon",
+			"-alone:before",
+			"-after:after",
+			"",
+			"$",
+			"z-index:1",
+			"MyriadWebPro",
+			"popup"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 22355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1681,
+								1681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 31.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_include/js/main.js",
+					"settings":
+					{
+						"buffer_size": 14355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1732,
+								1732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1483.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "_include/sass/main.scss",
+					"settings":
+					{
+						"buffer_size": 32141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4990,
+								4990
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_include/css/shortcodes.css",
+					"settings":
+					{
+						"buffer_size": 13213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8492,
+								8494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8287.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.566912216084,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
